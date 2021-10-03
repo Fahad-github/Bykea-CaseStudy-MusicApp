@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="no_results_found">No Results found</string>
+    <string name="search_hint">Search like Adele, Michael Jackson...(artists)</string>
+    <string name="artist_title">Artist Title</string>
+    <string name="song_title">Song Title</string>
+    <string name="album_title">Album TItle</string>
+</resources>
